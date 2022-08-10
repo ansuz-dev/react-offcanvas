@@ -2,7 +2,7 @@
 
 import React, { PropTypes } from "react";
 
-let OffCanvasMenu = ({
+const OffCanvasMenu = ({
   width = 250,
   transitionDuration = 250,
   isMenuOpened = false,
@@ -12,7 +12,7 @@ let OffCanvasMenu = ({
   className,
   style
 }) => {
-  
+
   // closed state style
   let left = position === "left" ? -1 * width + "px" : "auto";
   let right = position === "left" ? "auto" : -1 * width + "px";

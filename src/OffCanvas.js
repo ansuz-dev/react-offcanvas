@@ -2,7 +2,7 @@
 
 import React from "react";
 
-let OffCanvas = ({
+const OffCanvas = ({
   width = 250,
   transitionDuration = 250,
   isMenuOpened = false,

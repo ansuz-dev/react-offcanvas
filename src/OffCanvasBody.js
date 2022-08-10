@@ -2,7 +2,7 @@
 
 import React, { PropTypes } from "react";
 
-let OffCanvasBody = ({
+const OffCanvasBody = ({
   width = 250,
   transitionDuration = 250,
   isMenuOpened = false,
