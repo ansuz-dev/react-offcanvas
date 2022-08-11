@@ -5,7 +5,7 @@ Off-canvas menus for React.
 ## Installation
 
 ```bash
-$ npm install --save react-offcanvas
+$ npm install --save @ansuzdev/react-offcanvas
 ```
 
 ## Usage

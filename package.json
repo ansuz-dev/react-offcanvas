@@ -1,5 +1,5 @@
 {
-  "name": "react-offcanvas",
+  "name": "@ansuzdev/react-offcanvas",
   "version": "0.5.0",
   "description": "Off-canvas menus for React.",
   "main": "lib/index.js",
